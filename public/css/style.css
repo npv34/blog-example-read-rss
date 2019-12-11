@@ -1,0 +1,9 @@
+
+.img-thumbnail-post > p > img {
+    width: 246.031px !important;
+    height: 140px !important;
+}
+
+.card-body > p > img{
+    display: none !important;
+}
